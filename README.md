@@ -70,8 +70,7 @@ Highlight risky patterns
 
 🧠 Architecture Design       
 
-CLI Layer (Go + Cobra)         
-  
+CLI Layer (Go + Cobra):         
 spf13 (Cobra framework)         
 Viper for config       
 Bubble Tea (optional TUI mode)         
